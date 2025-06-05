@@ -1,0 +1,33 @@
+ [
+ { 
+ "Id": 1,
+"GroupId": 2,
+"Product": "Яблоко",
+"PriceSell": 100,
+"PricePurchase": 120
+  },
+
+  { 
+ "Id": 1,
+"GroupId": 1,
+"Product": "Морковь",
+"PriceSell": 110,
+"PricePurchase": 130
+  }, 
+
+  { 
+ "Id": 1,
+"GroupId": 3,
+"Product": "Малина",
+"PriceSell": 1120,
+"PricePurchase": 3000
+  },
+
+  { 
+ "Id": 1,
+"GroupId": 2,
+"Product": "Груша",
+"PriceSell": 30,
+"PricePurchase": 60
+  }
+] 
