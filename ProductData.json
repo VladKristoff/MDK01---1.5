@@ -1,0 +1,33 @@
+ [
+ { 
+ "Id": 1,
+"GroupId": 2,
+"Product": "Яблоки",
+"PriceProduct": 100,
+"WarehouseId": 2
+  },
+
+  { 
+ "Id": 2,
+"GroupId": 1,
+"Product":"Картофель",
+"PriceProduct": 50,
+"WarehouseId": 1
+  }, 
+
+  { 
+"Id": 3,
+"GroupId": 1,
+"Product": "Томаты",
+"PriceProduct": 70,
+"WarehouseId": 3
+  }, 
+
+  { 
+  "Id": 4,
+ "GroupId": 2,
+ "Product": "Бананы",
+ "PriceProduct": 120,
+ "WarehouseId": 2
+  } 
+] 
